@@ -1,0 +1,175 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\ApplicationInsights.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\csc.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\vbc.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\GUI_Web.dll.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\GUI_Web.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\GUI_Web.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\obj\Debug\GUI_Web.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\obj\Debug\GUI_Web.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrage\GUI_Web\obj\Debug\GUI_Web.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\ApplicationInsights.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\csc.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\vbc.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\GUI_Web.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AutoGarrageV2\GUI_Web\bin\CKEditor.NET.pdb
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\ApplicationInsights.config
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\csc.exe
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\vbc.exe
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll.config
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.pdb
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\CKEditor.NET.pdb
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.xml
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.xml
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.xml
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csprojAssemblyReference.cache
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csproj.CoreCompileInputs.cache
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csproj.CopyComplete
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.dll
+D:\ONE DRIVE\OneDrive - K3v\NguyenMinhThien_LTWeb\NguyenMinhThien_LTWeb\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.pdb
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\ApplicationInsights.config
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\csc.exe
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\vbc.exe
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll.config
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.pdb
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\CKEditor.NET.pdb
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csprojAssemblyReference.cache
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csproj.CoreCompileInputs.cache
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csproj.CopyComplete
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\MON WEB\LAP TRINH WEB\DEMO\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.pdb
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\ApplicationInsights.config
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\csc.exe
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\vbc.exe
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll.config
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\GUI_Web.pdb
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\CKEditor.NET.pdb
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.Web.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.AI.WindowsServer.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.ApplicationInsights.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csprojAssemblyReference.cache
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csproj.CoreCompileInputs.cache
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.csproj.CopyComplete
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.dll
+D:\ONE DRIVE\OneDrive - K3v\PRO HK8\TONG HOP BAO CAO\LAP TRINH WEB\Demo\AutoGarrageV2\GUI_Web\obj\Debug\GUI_Web.pdb
